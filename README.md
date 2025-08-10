@@ -1,6 +1,6 @@
 # Train App with Flask
 
-A Flask-based web application for train information and scheduling.
+A Flask-based web application built to serve as a backend for https://github.com/ssgwendigo/TrainAppFE and to demostrate how this API can be built using Python.
 
 ## Prerequisites
 
